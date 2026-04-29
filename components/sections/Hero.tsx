@@ -18,11 +18,11 @@ export function Hero() {
           29 MEI 1453
         </span>
 
-        <h1 className="font-serif text-5xl md:text-8xl lg:text-[9rem] leading-[0.95] tracking-tight mb-8">
-          Kejatuhan
-          <br />
-          <span className="text-red-500/90">Konstantinopel</span>
-        </h1>
+        <h1 className="font-serif text-5xl md:text-8xl lg:text-[9rem] leading-[0.95] tracking-tight mb-8 text-white">
+  Kejatuhan
+  <br />
+  <span className="text-red-500/90">Konstantinopel</span>
+</h1>
 
         <p className="font-sans text-lg md:text-xl text-muted-foreground max-w-lg mx-auto leading-relaxed">
           Runtuhnya benteng terakhir Romawi Timur, dan pergeseran pusat kekuasaan global.
@@ -59,11 +59,11 @@ export function Hero() {
           <span>·</span>
           <span className="text-white/90">80.000 prajurit</span>
           <span>·</span>
-          <span>1 kota</span>
+          <span className="text-white/90">1 Kota</span>
           <span>·</span>
           <span className="text-white/90">1.123 tahun</span>
         </div>
       </motion.div>
     </section>
   );
-}
+          }
