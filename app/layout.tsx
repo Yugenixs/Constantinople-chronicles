@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     icon: "/favicon.svg",
   },
   openGraph: {
-    title: "Constantinople Chronicles",
+    title: "Kejatuhan Konstantinopel 1453",
     description:
       "Visualisasi data editorial tentang kejatuhan Konstantinopel pada 29 Mei 1453.",
     images: ["/opengraph.jpg"],
@@ -53,5 +53,4 @@ export default function RootLayout({
       <body>{children}</body>
     </html>
   );
-  }
-  
+}
