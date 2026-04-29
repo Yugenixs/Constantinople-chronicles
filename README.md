@@ -7,8 +7,8 @@ An **editorial data visualization** project in Indonesian about the Fall of Cons
 - **Next.js 14** (App Router, React 18)
 - **TypeScript** (strict)
 - **Tailwind CSS v4** (via `@tailwindcss/postcss`)
-- **Framer Motion** untuk animasi scroll-linked
-- **Recharts** untuk semua chart hand-crafted
+- **Framer Motion** for scroll-linked animations
+- **Recharts** for all hand-crafted charts
 
 ## Feature
 
@@ -79,3 +79,9 @@ No environment variables are required..
 ## Data Source
 
 Each visualization includes citations of primary or secondary sources in a small panel below it, ranging from Treadgold, Runciman, Crowley, Inalcik, Geanakoplos, to the eyewitness diary of Nicolò Barbaro.
+
+## Contact
+
+- Email: yugenix555@gmail.com
+- Twitter: [@yugenixs](https://twitter.com/yugenixs)
+- GitHub: [@yugenix](https://github.com/yugenix)
