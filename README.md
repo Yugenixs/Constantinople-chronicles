@@ -1,117 +1,94 @@
-<h2 align="left">Hi 👋! My name is Yuge and I'm building editorial data visualization projects in Web3 & history, from Indonesia</h2>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ilyas%20Tio%20Afrilian%20(Yugenix)&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20Student%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-###
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Yugenixs">
+    <img src="https://komarev.com/ghpvc/?username=Yugenixs&label=Profile%20views&color=00FFFF&style=flat-square" alt="Yugenixs's profile views" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugenix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yugenix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 📌 About Me
+- I build data-driven insights at the intersection of crypto, narrative, and market behavior. Focused on turning complex systems into clear and structured visual explanations.
 
-## Fall of Constantinople 1453
 
-An **editorial data visualization** project in Indonesian about the Fall of Constantinople on May 29, 1453. Built with Next.js 14, Tailwind CSS v4, Framer Motion, and Recharts.
+## 🧠 About Project
+- Fall of Constantinople 1453 is an editorial data visualization project that breaks down a historical event into data, timeline, and causal structure, delivered through scrollytelling.
 
-## Stack
 
-* Next.js 14 (App Router, React 18)
-* TypeScript (strict)
-* Tailwind CSS v4
-* Framer Motion for scroll-linked animations
-* Recharts for data visualization
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Yugenixs">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yugenixs&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Yugenixs's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Yugenixs&theme=dark&hide_border=true&cache_seconds=86400" alt="Yugenixs's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Yugenixs&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ilyas Tio Afrilian (Yugenix)'s GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Yugenixs&theme=dark&radius=10" alt="Yugenixs's Activity Graph" />
+</p>
 
-## Feature
 
-* 11 editorial scrollytelling sections
-* 9 historical data visualization panels with source citations
-* Fully responsive design (desktop and mobile)
-* Typography system using Instrument Serif and Inter
-* Monochrome visual style with red accents for dramatic emphasis
+## 🛠️ Languages & Tools
 
-## Run Locally
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
 
-```bash
-npm install
-npm run dev
-```
+</p>
 
-Open http://localhost:3000
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
 
-## Build Production
+</p>
 
-```bash
-npm run build
-npm start
-```
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
 
-## Deploy to Vercel via GitHub
+</p>
 
-1. Push project ke repository GitHub
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
 
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/yugenix/<repo>.git
-git push -u origin main
-```
+</p>
 
-2. Buka https://vercel.com/new lalu pilih repository
-3. Vercel akan otomatis detect Next.js tanpa konfigurasi tambahan
-4. Klik Deploy
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
 
-Tidak membutuhkan environment variables
+</p>
 
-## Structure
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
-```
-.
-├── app/
-│   ├── globals.css
-│   ├── layout.tsx
-│   └── page.tsx
-├── components/
-│   ├── SectionNumber.tsx
-│   ├── sections/
-│   └── ui/
-│       └── SourceNote.tsx
-├── data/
-│   └── historical.ts
-├── public/
-│   ├── favicon.svg
-│   ├── opengraph.jpg
-│   └── images/
-├── next.config.mjs
-├── postcss.config.mjs
-├── tsconfig.json
-└── package.json
-```
+</p>
 
-## Data Source
+<p align="center">
+  <a href="https://github.com/Yugenixs">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yugenixs&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-Each visualization includes citations of primary and secondary sources, including Treadgold, Runciman, Crowley, Inalcik, Geanakoplos, and the eyewitness diary of Nicolò Barbaro.
-
-###
-
+## 🔗 Connect with Me
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://twitter.com/yugenixs" target="_blank">
+  <a href="https://x.com/yugenixs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://github.com/yugenix" target="_blank">
+  <a href="https://github.com/yugenixs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github logo"  />
   </a>
   <a href="mailto:yugenix555@gmail.com">
@@ -119,10 +96,8 @@ Each visualization includes citations of primary and secondary sources, includin
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
