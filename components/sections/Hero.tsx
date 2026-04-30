@@ -12,7 +12,7 @@ export function Hero() {
         initial={{ opacity: 0, scale: 0.95 }}
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.9, ease: [0.4, 0, 0.2, 1] }}
-        className="text-center z-10"
+        className="text-center z-10 pb-40"
       >
         <span className="block font-sans text-xs uppercase tracking-[0.2em] text-muted-foreground mb-6">
           29 MEI 1453
