@@ -7,11 +7,11 @@
 </p>
 
 ## 📌 About Me
-- I build data-driven insights at the intersection of crypto, narrative, and market behavior. Focused on turning complex systems into clear and structured visual explanations.
+I build data-driven insights at the intersection of crypto, narrative, and market behavior. Focused on turning complex systems into clear and structured visual explanations.
 
 
 ## 🧠 About Project
-- Fall of Constantinople 1453 is an editorial data visualization project that breaks down a historical event into data, timeline, and causal structure, delivered through scrollytelling.
+Fall of Constantinople 1453 is an editorial data visualization project that breaks down a historical event into data, timeline, and causal structure, delivered through scrollytelling.
 
 
 ## 📊 GitHub Stats & Trophies
