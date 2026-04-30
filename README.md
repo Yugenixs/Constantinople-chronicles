@@ -7,12 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yugenix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 ## Fall of Constantinople 1453
 
 An **editorial data visualization** project in Indonesian about the Fall of Constantinople on May 29, 1453. Built with Next.js 14, Tailwind CSS v4, Framer Motion, and Recharts.
