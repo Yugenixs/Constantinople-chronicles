@@ -39,6 +39,7 @@ Fall of Constantinople 1453 is an editorial data visualization project that brea
   <a href="mailto:yugenix555@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3z4r3dtngftuaq97za29uxfum)
 </div>
 
 
