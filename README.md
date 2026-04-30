@@ -27,6 +27,23 @@ Fall of Constantinople 1453 is an editorial data visualization project that brea
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Yugenixs&theme=dark&radius=10" alt="Yugenixs's Activity Graph" />
 </p>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 
 ## 🔗 Connect with Me
