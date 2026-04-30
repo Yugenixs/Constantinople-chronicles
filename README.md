@@ -13,6 +13,19 @@ I build data-driven insights at the intersection of crypto, narrative, and marke
 ## 🧠 About Project
 Fall of Constantinople 1453 is an editorial data visualization project that breaks down a historical event into data, timeline, and causal structure, delivered through scrollytelling.
 
+## Skill & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
